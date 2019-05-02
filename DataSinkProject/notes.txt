@@ -1,0 +1,3 @@
+Command rebuild entity classes:
+
+dotnet ef dbcontext scaffold "Server=localhost;Database=DataSinkDB;User Id=SA;Password=Password1;" Microsoft.EntityFrameworkCore.SqlServer -c DataSinkDbContext

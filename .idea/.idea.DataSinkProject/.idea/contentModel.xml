@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$APPLICATION_CONFIG_DIR$/scratches" t="IncludeRecursive" />
+    <e p="$USER_HOME$/.Rider2018.3/system/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/.Rider2018.3/system/resharper-host/local/Transient/ReSharperHost/v183/SolutionCaches/_DataSinkProject.1735266886.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="DataSinkProject" t="IncludeRecursive">
+        <e p="DBController.cs" t="Include" />
+        <e p="DataSinkProject.csproj" t="IncludeRecursive" />
+        <e p="Enities" t="Include">
+          <e p="DataSinkDbContext.cs" t="Include" />
+          <e p="Datum.cs" t="Include" />
+          <e p="DatumAttrib.cs" t="Include" />
+        </e>
+        <e p="MiscUtils.cs" t="Include" />
+        <e p="Program.cs" t="Include" />
+        <e p="RegisteredSPs" t="Include">
+          <e p="test.sql" t="Include" />
+        </e>
+        <e p="SqlFiles" t="Include">
+          <e p="build.sh" t="Include" />
+          <e p="create_db.sql" t="Include" />
+        </e>
+        <e p="TestData" t="Include">
+          <e p="testdata.txt" t="Include" />
+        </e>
+        <e p="TestingProcedures.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="notes.txt" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="DataSinkProject.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="DataSinkProject.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
