@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Net.Sockets;
 using System.Net;
+using DataSinkProject.DataLoading;
 using Microsoft.EntityFrameworkCore;
 
 namespace DataSinkProject
@@ -10,15 +11,19 @@ namespace DataSinkProject
     {
         static void Main(string[] args)
         {
-            DBController.RebuildDB();
-            TestingProcedures.GenerateAndWriteTestData();
-            
             DBController controller = new DBController();
-        
-            foreach (Datum datum in TestingProcedures.LoadTestFile())
-            {
-                controller.PushDatum(datum);
-            }
-        }t
+            
+            DBController.RebuildDB();
+            DBController.RebuildStoredProcedures();
+            
+            
+            EnronParser.ParseCSV();
+            EnronParser.LoadAndPushParsed(controller);
+
+            TestData.Generate();
+            TestData.LoadAndPush(controller);
+            
+            DBController.DebugPrintReader(controller.ExecuteProcedure("PROC_ALL_DATASET"));
+        }
     }
 }

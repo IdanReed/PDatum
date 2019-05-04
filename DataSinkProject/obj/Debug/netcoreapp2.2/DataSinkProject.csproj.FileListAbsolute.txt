@@ -9,3 +9,14 @@
 /home/idan/RiderProjects/DataSinkProject/DataSinkProject/obj/Debug/netcoreapp2.2/DataSinkProject.AssemblyInfo.cs
 /home/idan/RiderProjects/DataSinkProject/DataSinkProject/obj/Debug/netcoreapp2.2/DataSinkProject.dll
 /home/idan/RiderProjects/DataSinkProject/DataSinkProject/obj/Debug/netcoreapp2.2/DataSinkProject.pdb
+/home/idan/Documents/DataSinkProject/DataSinkProject/bin/Debug/netcoreapp2.2/DataSinkProject.deps.json
+/home/idan/Documents/DataSinkProject/DataSinkProject/bin/Debug/netcoreapp2.2/DataSinkProject.runtimeconfig.json
+/home/idan/Documents/DataSinkProject/DataSinkProject/bin/Debug/netcoreapp2.2/DataSinkProject.runtimeconfig.dev.json
+/home/idan/Documents/DataSinkProject/DataSinkProject/bin/Debug/netcoreapp2.2/DataSinkProject.dll
+/home/idan/Documents/DataSinkProject/DataSinkProject/bin/Debug/netcoreapp2.2/DataSinkProject.pdb
+/home/idan/Documents/DataSinkProject/DataSinkProject/obj/Debug/netcoreapp2.2/DataSinkProject.csprojAssemblyReference.cache
+/home/idan/Documents/DataSinkProject/DataSinkProject/obj/Debug/netcoreapp2.2/DataSinkProject.csproj.CoreCompileInputs.cache
+/home/idan/Documents/DataSinkProject/DataSinkProject/obj/Debug/netcoreapp2.2/DataSinkProject.AssemblyInfoInputs.cache
+/home/idan/Documents/DataSinkProject/DataSinkProject/obj/Debug/netcoreapp2.2/DataSinkProject.AssemblyInfo.cs
+/home/idan/Documents/DataSinkProject/DataSinkProject/obj/Debug/netcoreapp2.2/DataSinkProject.dll
+/home/idan/Documents/DataSinkProject/DataSinkProject/obj/Debug/netcoreapp2.2/DataSinkProject.pdb
