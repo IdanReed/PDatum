@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/home/idan/Documents/DataSinkProject/DataSinkProject/DataSinkProject.csproj",
+    "projectUniqueName": "/home/idan/RiderProjects/DataSinkProject/DataSinkProject/DataSinkProject.csproj",
     "projectName": "DataSinkProject",
-    "projectPath": "/home/idan/Documents/DataSinkProject/DataSinkProject/DataSinkProject.csproj",
-    "outputPath": "/home/idan/Documents/DataSinkProject/DataSinkProject/obj/",
+    "projectPath": "/home/idan/RiderProjects/DataSinkProject/DataSinkProject/DataSinkProject.csproj",
+    "outputPath": "/home/idan/RiderProjects/DataSinkProject/DataSinkProject/obj/",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
       "/usr/share/dotnet/sdk/NuGetFallbackFolder"
@@ -14,7 +14,11 @@
     ],
     "frameworks": {
       "netcoreapp2.2": {
-        "projectReferences": {}
+        "projectReferences": {
+          "/home/idan/RiderProjects/DataSinkProject/DBEntities/DBEntities.csproj": {
+            "projectPath": "/home/idan/RiderProjects/DataSinkProject/DBEntities/DBEntities.csproj"
+          }
+        }
       }
     },
     "warningProperties": {

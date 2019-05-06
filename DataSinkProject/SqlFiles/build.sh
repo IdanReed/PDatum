@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-cd "/home/idan/Documents/DataSinkProject/DataSinkProject/SqlFiles"
+cd "/home/idan/RiderProjects/DataSinkProject/DataSinkProject/SqlFiles"
 
 ExecSqlFile="/opt/mssql-tools/bin/sqlcmd -S localhost -U SA -P Password1 -i"
 

@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataSinkProject", "DataSinkProject\DataSinkProject.csproj", "{7EA67DAF-DF15-42FD-9223-FC5BEDEF2F28}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBEntities", "DBEntities\DBEntities.csproj", "{204AA08B-3111-4805-90AC-352489A05299}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{7EA67DAF-DF15-42FD-9223-FC5BEDEF2F28}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7EA67DAF-DF15-42FD-9223-FC5BEDEF2F28}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7EA67DAF-DF15-42FD-9223-FC5BEDEF2F28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{204AA08B-3111-4805-90AC-352489A05299}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{204AA08B-3111-4805-90AC-352489A05299}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{204AA08B-3111-4805-90AC-352489A05299}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{204AA08B-3111-4805-90AC-352489A05299}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

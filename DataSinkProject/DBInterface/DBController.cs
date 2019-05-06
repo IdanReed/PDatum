@@ -1,11 +1,9 @@
 using Microsoft.EntityFrameworkCore;
-using System.IO;
 using System.Collections.Generic;
 using System.Data;
 using System.Data.Common;
-using System.Data.SqlClient;
-using System.Linq;
 using System;
+using DBEntities;
 
 namespace DataSinkProject
 {
@@ -14,12 +12,12 @@ namespace DataSinkProject
         private DataSinkDbContext _context;
         
         private const string _buildScriptPath = 
-            @"/home/idan/Documents/DataSinkProject/DataSinkProject/SqlFiles/build.sh";
+            @"/home/idan/RiderProjects/DataSinkProject/DataSinkProject/SqlFiles/build.sh";
 
         private const string _storedProcScriptPath =
-            @"/home/idan/Documents/DataSinkProject/DataSinkProject/RegisteredSPs/build.sh";
+            @"/home/idan/RiderProjects/DataSinkProject/DataSinkProject/RegisteredSPs/build.sh";
         
-        public DBController()
+        public DBController() 
         {
             _context = new DataSinkDbContext();
         }

@@ -1,0 +1,11 @@
+/home/idan/RiderProjects/DataSinkProject/DBEntities/bin/Debug/netcoreapp2.2/DBEntities.deps.json
+/home/idan/RiderProjects/DataSinkProject/DBEntities/bin/Debug/netcoreapp2.2/DBEntities.dll
+/home/idan/RiderProjects/DataSinkProject/DBEntities/bin/Debug/netcoreapp2.2/DBEntities.pdb
+/home/idan/RiderProjects/DataSinkProject/DBEntities/obj/Debug/netcoreapp2.2/DBEntities.csprojAssemblyReference.cache
+/home/idan/RiderProjects/DataSinkProject/DBEntities/obj/Debug/netcoreapp2.2/DBEntities.csproj.CoreCompileInputs.cache
+/home/idan/RiderProjects/DataSinkProject/DBEntities/obj/Debug/netcoreapp2.2/DBEntities.AssemblyInfoInputs.cache
+/home/idan/RiderProjects/DataSinkProject/DBEntities/obj/Debug/netcoreapp2.2/DBEntities.AssemblyInfo.cs
+/home/idan/RiderProjects/DataSinkProject/DBEntities/obj/Debug/netcoreapp2.2/DBEntities.dll
+/home/idan/RiderProjects/DataSinkProject/DBEntities/obj/Debug/netcoreapp2.2/DBEntities.pdb
+/home/idan/RiderProjects/DataSinkProject/DBEntities/bin/Debug/netcoreapp2.2/DBEntities.runtimeconfig.json
+/home/idan/RiderProjects/DataSinkProject/DBEntities/bin/Debug/netcoreapp2.2/DBEntities.runtimeconfig.dev.json

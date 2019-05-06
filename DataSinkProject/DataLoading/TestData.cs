@@ -1,13 +1,13 @@
 using System.Collections.Generic;
 using System;
-using System.Runtime.CompilerServices;
+using DBEntities;
 
 namespace DataSinkProject.DataLoading
 {
     public static class TestData
     {
 
-        private static string _testDataDir = @"/home/idan/Documents/DataSinkProject/DataSinkProject/TestData/";
+        private static string _testDataDir = @"/home/idan/RiderProjects/DataSinkProject/DataSinkProject/TestData";
         
         private static Dictionary<Action, string> _dataFilnames = 
             new Dictionary<Action, string>()

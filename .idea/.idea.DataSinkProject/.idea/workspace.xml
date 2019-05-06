@@ -1,83 +1,207 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="008e73e5-eb0e-483a-b3be-fa506d9f8bcd" name="Default Changelist" comment="" />
+    <list default="true" id="008e73e5-eb0e-483a-b3be-fa506d9f8bcd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.DataSinkProject/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DataSinkProject/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.DataSinkProject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DataSinkProject/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataSinkProject.sln" beforeDir="false" afterPath="$PROJECT_DIR$/DataSinkProject.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataSinkProject/DBInterface/DBController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DataSinkProject/DBInterface/DBController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataSinkProject/DataLoading/DataLoadingProcedures.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DataSinkProject/DataLoading/DataLoadingProcedures.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataSinkProject/DataLoading/EnronParser.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DataSinkProject/DataLoading/EnronParser.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataSinkProject/DataLoading/TestData.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DataSinkProject/DataLoading/TestData.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataSinkProject/DataSinkProject.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/DataSinkProject/DataSinkProject.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataSinkProject/Enities/DataSinkDbContext.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataSinkProject/Enities/Datum.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataSinkProject/Enities/DatumAttrib.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataSinkProject/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DataSinkProject/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataSinkProject/RegisteredSPs/build.sh" beforeDir="false" afterPath="$PROJECT_DIR$/DataSinkProject/RegisteredSPs/build.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataSinkProject/RegisteredSPs/procs_test_data.sql" beforeDir="false" afterPath="$PROJECT_DIR$/DataSinkProject/RegisteredSPs/procs_test_data.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataSinkProject/SqlFiles/build.sh" beforeDir="false" afterPath="$PROJECT_DIR$/DataSinkProject/SqlFiles/build.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataSinkProject/TestData/RandomNumbers.txt" beforeDir="false" afterPath="$PROJECT_DIR$/DataSinkProject/TestData/RandomNumbers.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataSinkProject/bin/Debug/netcoreapp2.2/DataSinkProject.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/DataSinkProject/bin/Debug/netcoreapp2.2/DataSinkProject.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataSinkProject/bin/Debug/netcoreapp2.2/DataSinkProject.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/DataSinkProject/bin/Debug/netcoreapp2.2/DataSinkProject.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataSinkProject/obj/DataSinkProject.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DataSinkProject/obj/DataSinkProject.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataSinkProject/obj/DataSinkProject.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/DataSinkProject/obj/DataSinkProject.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataSinkProject/obj/Debug/netcoreapp2.2/DataSinkProject.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DataSinkProject/obj/Debug/netcoreapp2.2/DataSinkProject.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataSinkProject/obj/Debug/netcoreapp2.2/DataSinkProject.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DataSinkProject/obj/Debug/netcoreapp2.2/DataSinkProject.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataSinkProject/obj/Debug/netcoreapp2.2/DataSinkProject.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/DataSinkProject/obj/Debug/netcoreapp2.2/DataSinkProject.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataSinkProject/obj/Debug/netcoreapp2.2/DataSinkProject.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DataSinkProject/obj/Debug/netcoreapp2.2/DataSinkProject.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataSinkProject/obj/Debug/netcoreapp2.2/DataSinkProject.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/DataSinkProject/obj/Debug/netcoreapp2.2/DataSinkProject.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataSinkProject/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/DataSinkProject/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataSinkProject/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/DataSinkProject/obj/project.packagespec.json" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DataSinkProject/DBController.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
-              <folding>
-                <marker date="1556767296029" expanded="true" signature="95:657" ph="{...}" />
-                <marker date="1556767296029" expanded="true" signature="329:397" ph="{...}" />
-                <marker date="1556767296029" expanded="true" signature="449:544" ph="{...}" />
-                <marker date="1556767296029" expanded="true" signature="584:650" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DataSinkProject/Enities/Datum.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
-              <folding>
-                <marker date="1556758289281" expanded="false" signature="6:47" ph="..." />
-                <marker date="1556758289281" expanded="true" signature="74:337" ph="{...}" />
-                <marker date="1556758289281" expanded="true" signature="107:335" ph="{...}" />
-                <marker date="1556758289281" expanded="true" signature="136:210" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/DataSinkProject/DBInterface/DBController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="30" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
+              <folding>
+                <marker date="1557117702060" expanded="true" signature="6:147" ph="..." />
+                <marker date="1557117702060" expanded="true" signature="174:2300" ph="{...}" />
+                <marker date="1557117702060" expanded="true" signature="206:2298" ph="{...}" />
+                <marker date="1557117702060" expanded="true" signature="595:663" ph="{...}" />
+                <marker date="1557117702060" expanded="true" signature="712:931" ph="{...}" />
+                <marker date="1557117702060" expanded="true" signature="808:919" ph="{...}" />
+                <marker date="1557117702060" expanded="true" signature="987:1149" ph="{...}" />
+                <marker date="1557117702060" expanded="true" signature="1039:1139" ph="{...}" />
+                <marker date="1557117702060" expanded="true" signature="1192:1287" ph="{...}" />
+                <marker date="1557117702060" expanded="true" signature="1327:1393" ph="{...}" />
+                <marker date="1557117702060" expanded="true" signature="1447:1518" ph="{...}" />
+                <marker date="1557117702060" expanded="true" signature="1576:1890" ph="{...}" />
+                <marker date="1557117702060" expanded="true" signature="1956:2291" ph="{...}" />
+                <marker date="1557117702060" expanded="true" signature="2000:2253" ph="{...}" />
+                <marker date="1557117702060" expanded="true" signature="2144:2239" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DataSinkProject/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+            <state relative-caret-position="105">
+              <caret line="7" selection-start-line="7" selection-end-line="7" selection-end-column="17" />
               <folding>
-                <marker date="1556770143431" expanded="true" signature="6:128" ph="..." />
-                <marker date="1556770143431" expanded="true" signature="177:569" ph="{...}" />
-                <marker date="1556770143431" expanded="true" signature="223:562" ph="{...}" />
+                <marker date="1557116397180" expanded="true" signature="6:182" ph="..." />
+                <marker date="1557116397180" expanded="true" signature="213:769" ph="{...}" />
+                <marker date="1557116397180" expanded="true" signature="235:767" ph="{...}" />
+                <marker date="1557116397180" expanded="true" signature="281:761" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DataSinkProject/RegisteredSPs/test.sql">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/DataSinkProject/RegisteredSPs/build.sh">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="74" selection-start-line="2" selection-start-column="74" selection-end-line="2" selection-end-column="74" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DataSinkProject/SqlFiles/build.sh">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+            <state relative-caret-position="135">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DataSinkProject/DataLoading/EnronParser.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="21" column="29" lean-forward="true" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+              <folding>
+                <marker date="1557116771311" expanded="false" signature="6:84" ph="..." />
+                <marker date="1557116771311" expanded="true" signature="123:3354" ph="{...}" />
+                <marker date="1557116771311" expanded="true" signature="161:3352" ph="{...}" />
+                <marker date="1557116771311" expanded="true" signature="580:694" ph="{...}" />
+                <marker date="1557116771311" expanded="true" signature="765:872" ph="{...}" />
+                <marker date="1557116771311" expanded="true" signature="910:2241" ph="{...}" />
+                <marker date="1557116771311" expanded="true" signature="1296:2096" ph="{...}" />
+                <marker date="1557116771311" expanded="true" signature="1404:2053" ph="{...}" />
+                <marker date="1557116771311" expanded="true" signature="2312:3346" ph="{...}" />
+                <marker date="1557116771311" expanded="true" signature="2428:3310" ph="{...}" />
+                <marker date="1557116771311" expanded="true" signature="2563:3245" ph="{...}" />
+                <marker date="1557116771311" expanded="true" signature="2623:2727" ph="{...}" />
+                <marker date="1557116771311" expanded="true" signature="2787:2894" ph="{...}" />
+                <marker date="1557116771311" expanded="true" signature="2954:3057" ph="{...}" />
+                <marker date="1557116771311" expanded="true" signature="3117:3227" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DataSinkProject/Misc/MiscUtils.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+              <folding>
+                <marker date="1556762042281" expanded="true" signature="52:813" ph="{...}" />
+                <marker date="1556762042281" expanded="true" signature="88:811" ph="{...}" />
+                <marker date="1556762042281" expanded="true" signature="140:805" ph="{...}" />
+                <marker date="1556762042281" expanded="true" signature="273:613" ph="{...}" />
+                <marker date="1556762042281" expanded="true" signature="340:599" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DataSinkProject/DataLoading/TestData.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="615">
+              <caret line="41" column="13" lean-forward="true" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
+              <folding>
+                <marker date="1557116809642" expanded="true" signature="6:65" ph="..." />
+                <marker date="1557116809642" expanded="true" signature="104:2819" ph="{...}" />
+                <marker date="1557116809642" expanded="true" signature="139:2817" ph="{...}" />
+                <marker date="1557116809642" expanded="true" signature="395:510" ph="{...}" />
+                <marker date="1557116809642" expanded="true" signature="576:734" ph="{...}" />
+                <marker date="1557116809642" expanded="true" signature="659:721" ph="{...}" />
+                <marker date="1557116809642" expanded="true" signature="799:1023" ph="{...}" />
+                <marker date="1557116809642" expanded="true" signature="882:1010" ph="{...}" />
+                <marker date="1557116809642" expanded="true" signature="1072:1877" ph="{...}" />
+                <marker date="1557116809642" expanded="true" signature="1186:1756" ph="{...}" />
+                <marker date="1557116809642" expanded="true" signature="1337:1691" ph="{...}" />
+                <marker date="1557116809642" expanded="true" signature="1397:1505" ph="{...}" />
+                <marker date="1557116809642" expanded="true" signature="1565:1673" ph="{...}" />
+                <marker date="1557116809642" expanded="true" signature="1929:2792" ph="{...}" />
+                <marker date="1557116809642" expanded="true" signature="2084:2668" ph="{...}" />
+                <marker date="1557116809642" expanded="true" signature="2235:2603" ph="{...}" />
+                <marker date="1557116809642" expanded="true" signature="2295:2414" ph="{...}" />
+                <marker date="1557116809642" expanded="true" signature="2474:2585" ph="{...}" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>To</find>
+      <find>&quot;To&quot;,&quot;Value&quot;:&quot;</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/DataSinkProject/MiscUtils.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/DataSinkProject/DBController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DataSinkProject/Misc/MiscUtils.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DataSinkProject/DataLoading/DataLoadingProcedures.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DataSinkProject/DataLoading/TestData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DataSinkProject/DataLoading/EnronParser.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DataSinkProject/DBInterface/DBController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A42AE733-E333-4634-BAE5-ADE86E3A3A7D/7c/cc85c51f/KeyValuePair`2.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/DataSinkProject/Program.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/DataSinkProject/Enities/Datum.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/DataSinkProject/TestingProcedures.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/DataSinkProject/Enities/DataSinkDbContext.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/DataSinkProject/Enities/DatumAttrib.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -92,29 +216,44 @@
         <option value="$PROJECT_DIR$/DataSinkProject/TestDataCreator.cs" />
         <option value="$PROJECT_DIR$/DataSinkProject/TestingProcedures.cs" />
         <option value="$PROJECT_DIR$/DataSinkProject/notes.txt" />
-        <option value="$PROJECT_DIR$/DataSinkProject/DBController.cs" />
         <option value="$PROJECT_DIR$/DataSinkProject/Class1.cs" />
         <option value="$PROJECT_DIR$/DataSinkProject/NetworkController.cs" />
         <option value="$PROJECT_DIR$/DataSinkProject/TestClass.cs" />
         <option value="$PROJECT_DIR$/DataSinkProject/NetController.cs" />
-        <option value="$PROJECT_DIR$/DataSinkProject/SqlFiles/build.sh" />
+        <option value="$PROJECT_DIR$/DataSinkProject/DBController.cs" />
+        <option value="$PROJECT_DIR$/DataSinkProject/Misc/TestingProcedures.cs" />
+        <option value="$PROJECT_DIR$/DataSinkProject/Misc/DataLoadingProcedures.cs" />
+        <option value="$PROJECT_DIR$/DataSinkProject/SqlFiles/create_db.sql" />
+        <option value="$PROJECT_DIR$/DataSinkProject/RegisteredSPs/test.sql" />
+        <option value="$PROJECT_DIR$/DataSinkProject/RegisteredSPs/procs_enron.sql" />
+        <option value="$PROJECT_DIR$/DataSinkProject/DataLoading/GenerateTestData.cs" />
+        <option value="$PROJECT_DIR$/DataSinkProject/RegisteredSPs/procs_misc.sql" />
+        <option value="$PROJECT_DIR$/DataSinkProject/RegisteredSPs/procs_test_data.sql" />
+        <option value="$PROJECT_DIR$/DBEntities/Class1.cs" />
         <option value="$PROJECT_DIR$/DataSinkProject/Program.cs" />
+        <option value="$PROJECT_DIR$/DataSinkProject/DataLoading/DataLoadingProcedures.cs" />
+        <option value="$PROJECT_DIR$/DataSinkProject/DataLoading/EnronParser.cs" />
+        <option value="$PROJECT_DIR$/DataSinkProject/DataLoading/TestData.cs" />
+        <option value="$PROJECT_DIR$/DataSinkProject/RegisteredSPs/build.sh" />
+        <option value="$PROJECT_DIR$/DataSinkProject/SqlFiles/build.sh" />
+        <option value="$PROJECT_DIR$/DataSinkProject/DBInterface/DBController.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1313" />
+    <option name="x" value="67" />
     <option name="y" value="25" />
-    <option name="width" value="1247" />
-    <option name="height" value="1415" />
+    <option name="width" value="1853" />
+    <option name="height" value="990" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator currentView="SolutionExplorer" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AssemblyExplorer" />
-      <pane id="FileSystemExplorer" />
       <pane id="SolutionExplorer">
         <subPane>
           <expand>
@@ -122,17 +261,66 @@
               <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
               <item name="DataSinkProject" type="24d0babc:SolutionExplorerModelNode" />
             </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="DataSinkProject" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="DataSinkProject" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="DataSinkProject" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="DataSinkProject" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="DataLoading" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="DataSinkProject" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="DataSinkProject" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="DBInterface" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="DataSinkProject" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="DataSinkProject" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Misc" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="DataSinkProject" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="DataSinkProject" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="RegisteredSPs" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="DataSinkProject" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="DataSinkProject" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="SqlFiles" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="DataSinkProject" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="DataSinkProject" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="TestData" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="DataSinkProject" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="DBEntities" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
           </expand>
           <select />
         </subPane>
         <option name="show-all-files" value="false" />
       </pane>
+      <pane id="AssemblyExplorer" />
+      <pane id="FileSystemExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../DataSinkDBEntities/DataSinkDBEntities/DataSinkDBEntities.csproj" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -195,11 +383,18 @@
       <workItem from="1556770788150" duration="41000" />
       <workItem from="1556771430881" duration="30000" />
       <workItem from="1556771524833" duration="28000" />
+      <workItem from="1556772793436" duration="496000" />
+      <workItem from="1556774573616" duration="2631000" />
+      <workItem from="1556915735424" duration="1138000" />
+      <workItem from="1556918022740" duration="493000" />
+      <workItem from="1556919048445" duration="29976000" />
+      <workItem from="1557103320239" duration="1577000" />
+      <workItem from="1557116011017" duration="1687000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24481000" />
+    <option name="totallyTimeSpent" value="62479000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -211,28 +406,29 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="67" y="25" width="2493" height="1310" extended-state="6" />
+    <frame x="67" y="25" width="2493" height="1415" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12219044" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17368206" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32967034" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.59092766" weight="0.32882503" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.5680425" visible="true" weight="0.30171072" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39968896" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49979568" weight="0.32967034" />
-      <window_info anchor="bottom" id="NuGet" order="7" sideWeight="0.49856967" weight="0.2983939" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.5369841" weight="0.3281493" />
+      <window_info anchor="bottom" id="NuGet" order="7" sideWeight="0.49856967" weight="0.27138415" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Database Changes" order="10" />
-      <window_info anchor="bottom" id="Unit Tests" order="11" weight="0.32967034" />
-      <window_info anchor="bottom" id="Terminal" order="12" sideWeight="0.499387" weight="0.34234995" />
-      <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.50143033" side_tool="true" visible="true" weight="0.32882503" />
-      <window_info active="true" anchor="bottom" id="Build" order="14" sideWeight="0.49856967" visible="true" weight="0.32882503" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32970452" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" order="11" weight="0.3289269" />
+      <window_info anchor="bottom" id="Terminal" order="12" sideWeight="0.49816102" weight="0.45178849" />
+      <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.4319575" side_tool="true" visible="true" weight="0.30171072" />
+      <window_info anchor="bottom" id="Build" order="14" sideWeight="0.47650185" weight="0.3273717" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -246,6 +442,9 @@
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.sh" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -257,27 +456,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/DataSinkProject/MiscUtils.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="9" lean-forward="true" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
-          <folding>
-            <marker date="1556762042281" expanded="true" signature="52:813" ph="{...}" />
-            <marker date="1556762042281" expanded="true" signature="88:811" ph="{...}" />
-            <marker date="1556762042281" expanded="true" signature="140:805" ph="{...}" />
-            <marker date="1556762042281" expanded="true" signature="273:613" ph="{...}" />
-            <marker date="1556762042281" expanded="true" signature="340:599" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataSinkProject/SqlFiles/create_db.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" column="73" lean-forward="true" selection-start-line="32" selection-start-column="73" selection-end-line="32" selection-end-column="73" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/DataSinkProject/Enities/DatumAttrib.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -316,55 +494,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DataSinkProject/notes.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="31" selection-start-column="31" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/DataSinkProject/NetworkController.cs" />
     <entry file="file://$PROJECT_DIR$/DataSinkProject/TestClass.cs" />
     <entry file="file://$PROJECT_DIR$/DataSinkProject/NetController.cs" />
-    <entry file="file://$PROJECT_DIR$/DataSinkProject/TestingProcedures.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
-          <folding>
-            <marker date="1556764256209" expanded="true" signature="6:116" ph="..." />
-            <marker date="1556764256209" expanded="true" signature="187:2566" ph="{...}" />
-            <marker date="1556764256209" expanded="true" signature="518:801" ph="{...}" />
-            <marker date="1556764256209" expanded="true" signature="714:791" ph="{...}" />
-            <marker date="1556764256209" expanded="true" signature="851:1537" ph="{...}" />
-            <marker date="1556764256209" expanded="true" signature="1126:1495" ph="{...}" />
-            <marker date="1556764256209" expanded="true" signature="1178:1481" ph="{...}" />
-            <marker date="1556764256209" expanded="true" signature="1263:1463" ph="{...}" />
-            <marker date="1556764256209" expanded="true" signature="1600:2560" ph="{...}" />
-            <marker date="1556764256209" expanded="true" signature="1723:2493" ph="{...}" />
-            <marker date="1556764256209" expanded="true" signature="1956:2083" ph="{...}" />
-            <marker date="1556764256209" expanded="true" signature="2146:2420" ph="{...}" />
-            <marker date="1556764256209" expanded="true" signature="2274:2400" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataSinkProject/DBController.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
-          <folding>
-            <marker date="1556767296029" expanded="true" signature="95:657" ph="{...}" />
-            <marker date="1556767296029" expanded="true" signature="329:397" ph="{...}" />
-            <marker date="1556767296029" expanded="true" signature="449:544" ph="{...}" />
-            <marker date="1556767296029" expanded="true" signature="584:650" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/DataSinkProject/Enities/Datum.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="105">
+          <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
           <folding>
             <marker date="1556758289281" expanded="false" signature="6:47" ph="..." />
             <marker date="1556758289281" expanded="true" signature="74:337" ph="{...}" />
@@ -374,24 +510,201 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DataSinkProject/RegisteredSPs/test.sql">
+    <entry file="file://$PROJECT_DIR$/DataSinkProject/TestData/emailsParsed.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataSinkProject/TestData/IncNumbers.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/DataSinkProject/SqlFiles/build.sh">
+    <entry file="file://$PROJECT_DIR$/DataSinkProject/TestData/RandomNumbers.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataSinkProject/RegisteredSPs/procs_test_data.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+        <state relative-caret-position="570">
+          <caret line="38" column="4" selection-start-line="38" selection-start-column="4" selection-end-line="38" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataSinkProject/RegisteredSPs/procs_misc.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="41" column="42" selection-start-line="41" selection-start-column="25" selection-end-line="41" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataSinkProject/RegisteredSPs/procs_enron.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="47" column="59" selection-start-line="47" selection-start-column="59" selection-end-line="47" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataSinkProject/notes.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="107" lean-forward="true" selection-start-line="2" selection-start-column="107" selection-end-line="2" selection-end-column="107" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DBEntities/Class1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A42AE733-E333-4634-BAE5-ADE86E3A3A7D/7c/cc85c51f/KeyValuePair`2.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="28" column="8" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataSinkProject/SqlFiles/create_db.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="41" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataSinkProject/DataLoading/DataLoadingProcedures.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <marker date="1557116442807" expanded="true" signature="6:134" ph="..." />
+            <marker date="1557116442807" expanded="true" signature="161:1485" ph="{...}" />
+            <marker date="1557116442807" expanded="true" signature="209:1483" ph="{...}" />
+            <marker date="1557116442807" expanded="true" signature="425:708" ph="{...}" />
+            <marker date="1557116442807" expanded="true" signature="621:698" ph="{...}" />
+            <marker date="1557116442807" expanded="true" signature="773:1459" ph="{...}" />
+            <marker date="1557116442807" expanded="true" signature="1048:1417" ph="{...}" />
+            <marker date="1557116442807" expanded="true" signature="1100:1403" ph="{...}" />
+            <marker date="1557116442807" expanded="true" signature="1185:1385" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataSinkProject/Misc/MiscUtils.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+          <folding>
+            <marker date="1556762042281" expanded="true" signature="52:813" ph="{...}" />
+            <marker date="1556762042281" expanded="true" signature="88:811" ph="{...}" />
+            <marker date="1556762042281" expanded="true" signature="140:805" ph="{...}" />
+            <marker date="1556762042281" expanded="true" signature="273:613" ph="{...}" />
+            <marker date="1556762042281" expanded="true" signature="340:599" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataSinkProject/DataLoading/EnronParser.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="21" column="29" lean-forward="true" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+          <folding>
+            <marker date="1557116771311" expanded="false" signature="6:84" ph="..." />
+            <marker date="1557116771311" expanded="true" signature="123:3354" ph="{...}" />
+            <marker date="1557116771311" expanded="true" signature="161:3352" ph="{...}" />
+            <marker date="1557116771311" expanded="true" signature="580:694" ph="{...}" />
+            <marker date="1557116771311" expanded="true" signature="765:872" ph="{...}" />
+            <marker date="1557116771311" expanded="true" signature="910:2241" ph="{...}" />
+            <marker date="1557116771311" expanded="true" signature="1296:2096" ph="{...}" />
+            <marker date="1557116771311" expanded="true" signature="1404:2053" ph="{...}" />
+            <marker date="1557116771311" expanded="true" signature="2312:3346" ph="{...}" />
+            <marker date="1557116771311" expanded="true" signature="2428:3310" ph="{...}" />
+            <marker date="1557116771311" expanded="true" signature="2563:3245" ph="{...}" />
+            <marker date="1557116771311" expanded="true" signature="2623:2727" ph="{...}" />
+            <marker date="1557116771311" expanded="true" signature="2787:2894" ph="{...}" />
+            <marker date="1557116771311" expanded="true" signature="2954:3057" ph="{...}" />
+            <marker date="1557116771311" expanded="true" signature="3117:3227" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataSinkProject/DataSinkProject.csproj">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataSinkProject/DataLoading/TestData.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="41" column="13" lean-forward="true" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
+          <folding>
+            <marker date="1557116809642" expanded="true" signature="6:65" ph="..." />
+            <marker date="1557116809642" expanded="true" signature="104:2819" ph="{...}" />
+            <marker date="1557116809642" expanded="true" signature="139:2817" ph="{...}" />
+            <marker date="1557116809642" expanded="true" signature="395:510" ph="{...}" />
+            <marker date="1557116809642" expanded="true" signature="576:734" ph="{...}" />
+            <marker date="1557116809642" expanded="true" signature="659:721" ph="{...}" />
+            <marker date="1557116809642" expanded="true" signature="799:1023" ph="{...}" />
+            <marker date="1557116809642" expanded="true" signature="882:1010" ph="{...}" />
+            <marker date="1557116809642" expanded="true" signature="1072:1877" ph="{...}" />
+            <marker date="1557116809642" expanded="true" signature="1186:1756" ph="{...}" />
+            <marker date="1557116809642" expanded="true" signature="1337:1691" ph="{...}" />
+            <marker date="1557116809642" expanded="true" signature="1397:1505" ph="{...}" />
+            <marker date="1557116809642" expanded="true" signature="1565:1673" ph="{...}" />
+            <marker date="1557116809642" expanded="true" signature="1929:2792" ph="{...}" />
+            <marker date="1557116809642" expanded="true" signature="2084:2668" ph="{...}" />
+            <marker date="1557116809642" expanded="true" signature="2235:2603" ph="{...}" />
+            <marker date="1557116809642" expanded="true" signature="2295:2414" ph="{...}" />
+            <marker date="1557116809642" expanded="true" signature="2474:2585" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DataSinkProject/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" selection-end-column="17" />
           <folding>
-            <marker date="1556770143431" expanded="true" signature="6:128" ph="..." />
-            <marker date="1556770143431" expanded="true" signature="177:569" ph="{...}" />
-            <marker date="1556770143431" expanded="true" signature="223:562" ph="{...}" />
+            <marker date="1557116397180" expanded="true" signature="6:182" ph="..." />
+            <marker date="1557116397180" expanded="true" signature="213:769" ph="{...}" />
+            <marker date="1557116397180" expanded="true" signature="235:767" ph="{...}" />
+            <marker date="1557116397180" expanded="true" signature="281:761" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataSinkProject/RegisteredSPs/build.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="74" selection-start-line="2" selection-start-column="74" selection-end-line="2" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataSinkProject/SqlFiles/build.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataSinkProject/DBInterface/DBController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="30" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
+          <folding>
+            <marker date="1557117702060" expanded="true" signature="6:147" ph="..." />
+            <marker date="1557117702060" expanded="true" signature="174:2300" ph="{...}" />
+            <marker date="1557117702060" expanded="true" signature="206:2298" ph="{...}" />
+            <marker date="1557117702060" expanded="true" signature="595:663" ph="{...}" />
+            <marker date="1557117702060" expanded="true" signature="712:931" ph="{...}" />
+            <marker date="1557117702060" expanded="true" signature="808:919" ph="{...}" />
+            <marker date="1557117702060" expanded="true" signature="987:1149" ph="{...}" />
+            <marker date="1557117702060" expanded="true" signature="1039:1139" ph="{...}" />
+            <marker date="1557117702060" expanded="true" signature="1192:1287" ph="{...}" />
+            <marker date="1557117702060" expanded="true" signature="1327:1393" ph="{...}" />
+            <marker date="1557117702060" expanded="true" signature="1447:1518" ph="{...}" />
+            <marker date="1557117702060" expanded="true" signature="1576:1890" ph="{...}" />
+            <marker date="1557117702060" expanded="true" signature="1956:2291" ph="{...}" />
+            <marker date="1557117702060" expanded="true" signature="2000:2253" ph="{...}" />
+            <marker date="1557117702060" expanded="true" signature="2144:2239" ph="{...}" />
           </folding>
         </state>
       </provider>

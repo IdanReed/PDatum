@@ -1,31 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="$APPLICATION_CONFIG_DIR$/scratches" t="IncludeRecursive" />
     <e p="$USER_HOME$/.Rider2018.3/system/extResources" t="IncludeRecursive" />
-    <e p="$USER_HOME$/.Rider2018.3/system/resharper-host/local/Transient/ReSharperHost/v183/SolutionCaches/_DataSinkProject.1735266886.00" t="ExcludeRecursive" />
+    <e p="$USER_HOME$/.Rider2018.3/system/resharper-host/local/Transient/ReSharperHost/v183/SolutionCaches/_DataSinkProject.-1769846782.00" t="ExcludeRecursive" />
     <e p="$PROJECT_DIR$" t="IncludeFlat">
-      <e p="DataSinkProject" t="IncludeRecursive">
-        <e p="DBController.cs" t="Include" />
-        <e p="DataSinkProject.csproj" t="IncludeRecursive" />
-        <e p="Enities" t="Include">
-          <e p="DataSinkDbContext.cs" t="Include" />
-          <e p="Datum.cs" t="Include" />
-          <e p="DatumAttrib.cs" t="Include" />
+      <e p="DBEntities" t="IncludeRecursive">
+        <e p="DBEntities.csproj" t="IncludeRecursive" />
+        <e p="DataSinkDbContext.cs" t="Include" />
+        <e p="Datum.cs" t="Include" />
+        <e p="DatumAttrib.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="DBEntities.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
         </e>
-        <e p="MiscUtils.cs" t="Include" />
+      </e>
+      <e p="DataSinkProject" t="IncludeRecursive">
+        <e p="DBInterface" t="Include">
+          <e p="DBController.cs" t="Include" />
+        </e>
+        <e p="DataLoading" t="Include">
+          <e p="DataLoadingProcedures.cs" t="Include" />
+          <e p="EnronParser.cs" t="Include" />
+          <e p="TestData.cs" t="Include" />
+        </e>
+        <e p="DataSinkProject.csproj" t="IncludeRecursive" />
+        <e p="Misc" t="Include">
+          <e p="MiscUtils.cs" t="Include" />
+        </e>
         <e p="Program.cs" t="Include" />
         <e p="RegisteredSPs" t="Include">
-          <e p="test.sql" t="Include" />
+          <e p="build.sh" t="Include" />
+          <e p="procs_enron.sql" t="Include" />
+          <e p="procs_misc.sql" t="Include" />
+          <e p="procs_test_data.sql" t="Include" />
         </e>
         <e p="SqlFiles" t="Include">
           <e p="build.sh" t="Include" />
           <e p="create_db.sql" t="Include" />
         </e>
         <e p="TestData" t="Include">
+          <e p="IncNumbers.txt" t="Include" />
+          <e p="RandomNumbers.txt" t="Include" />
+          <e p="emails.csv" t="Include" />
+          <e p="emailsParsed.txt" t="Include" />
           <e p="testdata.txt" t="Include" />
         </e>
-        <e p="TestingProcedures.cs" t="Include" />
+        <e p="TestDataIncNumbers.txt" t="Include" />
+        <e p="TestDataRandomNumbers.txt" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
         <e p="notes.txt" t="Include" />
         <e p="obj" t="ExcludeRecursive">

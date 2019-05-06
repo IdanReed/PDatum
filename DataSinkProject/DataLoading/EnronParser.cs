@@ -1,16 +1,17 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using DBEntities;
 
 namespace DataSinkProject.DataLoading
 {
     public static class EnronParser
     {
         private const string _enronCsvPath =
-            @"/home/idan/Documents/DataSinkProject/DataSinkProject/TestData/emails.csv";
+            @"/home/idan/RiderProjects/DataSinkProject/DataSinkProject/TestData/emails.csv";
         
         private const string _enronParsedPath = 
-            @"/home/idan/Documents/DataSinkProject/DataSinkProject/TestData/emailsParsed.txt";
+            @"/home/idan/RiderProjects/DataSinkProject/DataSinkProject/TestData/emailsParsed.txt";
 
         private const string _selectedSender = @"phillip.allen@enron.com";     
        

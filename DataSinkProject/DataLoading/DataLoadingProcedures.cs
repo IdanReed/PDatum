@@ -4,6 +4,7 @@ using System.IO;
 using Newtonsoft.Json;
 using System.Collections.Generic;
 using Newtonsoft.Json.Linq;
+using DBEntities;
 
 namespace DataSinkProject
 {

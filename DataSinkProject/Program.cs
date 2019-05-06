@@ -5,6 +5,8 @@ using System.Net;
 using DataSinkProject.DataLoading;
 using Microsoft.EntityFrameworkCore;
 
+using DBEntities;
+    
 namespace DataSinkProject
 {
     class  Program 
@@ -23,7 +25,7 @@ namespace DataSinkProject
             TestData.Generate();
             TestData.LoadAndPush(controller);
             
-            DBController.DebugPrintReader(controller.ExecuteProcedure("PROC_ALL_DATASET"));
+            DBController.DebugPrintReader(controller.ExecuteProcedure("PROC_ALL_RAND"));
         }
     }
 }

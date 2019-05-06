@@ -17,4 +17,14 @@
       <PackageReference Include="Newtonsoft.Json" Version="12.0.2" />
     </ItemGroup>
 
+    <ItemGroup>
+      <Reference Include="DataSinkDBEntities, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <HintPath>..\..\DataSinkDBEntities\DataSinkDBEntities\bin\Debug\netcoreapp2.2\DataSinkDBEntities.dll</HintPath>
+      </Reference>
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\DBEntities\DBEntities.csproj" />
+    </ItemGroup>
+
 </Project>

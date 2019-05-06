@@ -2,7 +2,7 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata;
 
-namespace DataSinkProject
+namespace DBEntities
 {
     public partial class DataSinkDbContext : DbContext
     {
@@ -22,6 +22,7 @@ namespace DataSinkProject
         {
             if (!optionsBuilder.IsConfigured)
             {
+#warning To protect potentially sensitive information in your connection string, you should move it out of source code. See http://go.microsoft.com/fwlink/?LinkId=723263 for guidance on storing connection strings.
                 optionsBuilder.UseSqlServer("Server=localhost;Database=DataSinkDB;User Id=SA;Password=Password1;");
             }
         }
@@ -33,13 +34,13 @@ namespace DataSinkProject
             modelBuilder.Entity<Datum>(entity =>
             {
                 entity.HasKey(e => e.PkDatumId)
-                    .HasName("PK__Datum__4922022D6F4879F8");
+                    .HasName("PK__Datum__4922022DB36260E2");
             });
 
             modelBuilder.Entity<DatumAttrib>(entity =>
             {
                 entity.HasKey(e => e.PkDatumAttribId)
-                    .HasName("PK__DatumAtt__98EF977EE7A29E09");
+                    .HasName("PK__DatumAtt__98EF977EFDAA090F");
 
                 entity.Property(e => e.Tag)
                     .IsRequired()
