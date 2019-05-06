@@ -2,34 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="008e73e5-eb0e-483a-b3be-fa506d9f8bcd" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.DataSinkProject/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DataSinkProject/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.DataSinkProject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DataSinkProject/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DataSinkProject.sln" beforeDir="false" afterPath="$PROJECT_DIR$/DataSinkProject.sln" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataSinkProject/DBInterface/DBController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DataSinkProject/DBInterface/DBController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataSinkProject/DataLoading/DataLoadingProcedures.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DataSinkProject/DataLoading/DataLoadingProcedures.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataSinkProject/DataLoading/EnronParser.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DataSinkProject/DataLoading/EnronParser.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataSinkProject/DataLoading/TestData.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DataSinkProject/DataLoading/TestData.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataSinkProject/DataSinkProject.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/DataSinkProject/DataSinkProject.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataSinkProject/Enities/DataSinkDbContext.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataSinkProject/Enities/Datum.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataSinkProject/Enities/DatumAttrib.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataSinkProject/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DataSinkProject/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataSinkProject/RegisteredSPs/build.sh" beforeDir="false" afterPath="$PROJECT_DIR$/DataSinkProject/RegisteredSPs/build.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataSinkProject/RegisteredSPs/procs_test_data.sql" beforeDir="false" afterPath="$PROJECT_DIR$/DataSinkProject/RegisteredSPs/procs_test_data.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataSinkProject/SqlFiles/build.sh" beforeDir="false" afterPath="$PROJECT_DIR$/DataSinkProject/SqlFiles/build.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataSinkProject/TestData/RandomNumbers.txt" beforeDir="false" afterPath="$PROJECT_DIR$/DataSinkProject/TestData/RandomNumbers.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataSinkProject/bin/Debug/netcoreapp2.2/DataSinkProject.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/DataSinkProject/bin/Debug/netcoreapp2.2/DataSinkProject.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataSinkProject/TestDataRandomNumbers.txt" beforeDir="false" afterPath="$PROJECT_DIR$/DataSinkProject/TestDataRandomNumbers.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DataSinkProject/bin/Debug/netcoreapp2.2/DataSinkProject.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/DataSinkProject/bin/Debug/netcoreapp2.2/DataSinkProject.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataSinkProject/obj/DataSinkProject.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DataSinkProject/obj/DataSinkProject.csproj.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataSinkProject/obj/DataSinkProject.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/DataSinkProject/obj/DataSinkProject.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataSinkProject/obj/Debug/netcoreapp2.2/DataSinkProject.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DataSinkProject/obj/Debug/netcoreapp2.2/DataSinkProject.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataSinkProject/obj/Debug/netcoreapp2.2/DataSinkProject.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DataSinkProject/obj/Debug/netcoreapp2.2/DataSinkProject.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataSinkProject/obj/Debug/netcoreapp2.2/DataSinkProject.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/DataSinkProject/obj/Debug/netcoreapp2.2/DataSinkProject.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataSinkProject/obj/Debug/netcoreapp2.2/DataSinkProject.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DataSinkProject/obj/Debug/netcoreapp2.2/DataSinkProject.csprojAssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DataSinkProject/obj/Debug/netcoreapp2.2/DataSinkProject.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/DataSinkProject/obj/Debug/netcoreapp2.2/DataSinkProject.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataSinkProject/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/DataSinkProject/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataSinkProject/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/DataSinkProject/obj/project.packagespec.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -56,8 +33,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/DataSinkProject/DBInterface/DBController.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="30" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
+            <state relative-caret-position="330">
+              <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
               <folding>
                 <marker date="1557117702060" expanded="true" signature="6:147" ph="..." />
                 <marker date="1557117702060" expanded="true" signature="174:2300" ph="{...}" />
@@ -107,7 +84,7 @@
         <entry file="file://$PROJECT_DIR$/DataSinkProject/SqlFiles/build.sh">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
@@ -116,7 +93,7 @@
         <entry file="file://$PROJECT_DIR$/DataSinkProject/DataLoading/EnronParser.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="225">
-              <caret line="21" column="29" lean-forward="true" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+              <caret line="21" column="29" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
               <folding>
                 <marker date="1557116771311" expanded="false" signature="6:84" ph="..." />
                 <marker date="1557116771311" expanded="true" signature="123:3354" ph="{...}" />
@@ -158,7 +135,7 @@
         <entry file="file://$PROJECT_DIR$/DataSinkProject/DataLoading/TestData.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="615">
-              <caret line="41" column="13" lean-forward="true" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
+              <caret line="41" column="13" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
               <folding>
                 <marker date="1557116809642" expanded="true" signature="6:65" ph="..." />
                 <marker date="1557116809642" expanded="true" signature="104:2819" ph="{...}" />
@@ -260,6 +237,11 @@
             <path>
               <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
               <item name="DataSinkProject" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="DataSinkProject" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="DataReceivingServer" type="24d0babc:SolutionExplorerModelNode" />
             </path>
             <path>
               <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
@@ -389,12 +371,12 @@
       <workItem from="1556918022740" duration="493000" />
       <workItem from="1556919048445" duration="29976000" />
       <workItem from="1557103320239" duration="1577000" />
-      <workItem from="1557116011017" duration="1687000" />
+      <workItem from="1557116011017" duration="2834000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="62479000" />
+    <option name="totallyTimeSpent" value="63626000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -409,14 +391,14 @@
     <frame x="67" y="25" width="2493" height="1415" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17368206" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17368206" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32967034" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.5680425" visible="true" weight="0.30171072" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.56722516" visible="true" weight="0.30171072" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39968896" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -426,9 +408,9 @@
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32970452" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Unit Tests" order="11" weight="0.3289269" />
-      <window_info anchor="bottom" id="Terminal" order="12" sideWeight="0.49816102" weight="0.45178849" />
-      <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.4319575" side_tool="true" visible="true" weight="0.30171072" />
-      <window_info anchor="bottom" id="Build" order="14" sideWeight="0.47650185" weight="0.3273717" />
+      <window_info anchor="bottom" id="Terminal" order="12" sideWeight="0.49775234" weight="0.45178849" />
+      <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.4327748" side_tool="true" visible="true" weight="0.30171072" />
+      <window_info anchor="bottom" id="Build" order="14" sideWeight="0.47568452" weight="0.3273717" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -607,7 +589,7 @@
     <entry file="file://$PROJECT_DIR$/DataSinkProject/DataLoading/EnronParser.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
-          <caret line="21" column="29" lean-forward="true" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+          <caret line="21" column="29" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
           <folding>
             <marker date="1557116771311" expanded="false" signature="6:84" ph="..." />
             <marker date="1557116771311" expanded="true" signature="123:3354" ph="{...}" />
@@ -634,7 +616,7 @@
     <entry file="file://$PROJECT_DIR$/DataSinkProject/DataLoading/TestData.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="615">
-          <caret line="41" column="13" lean-forward="true" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
+          <caret line="41" column="13" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
           <folding>
             <marker date="1557116809642" expanded="true" signature="6:65" ph="..." />
             <marker date="1557116809642" expanded="true" signature="104:2819" ph="{...}" />
@@ -681,14 +663,14 @@
     <entry file="file://$PROJECT_DIR$/DataSinkProject/SqlFiles/build.sh">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DataSinkProject/DBInterface/DBController.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="30" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
+        <state relative-caret-position="330">
+          <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
           <folding>
             <marker date="1557117702060" expanded="true" signature="6:147" ph="..." />
             <marker date="1557117702060" expanded="true" signature="174:2300" ph="{...}" />
